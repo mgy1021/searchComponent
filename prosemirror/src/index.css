@@ -1,0 +1,22 @@
+/* style.css 稍微对编辑器增加点样式 */
+#editorContainer {
+  border: 1px solid #646cffaa;
+  padding: 0px 12px;
+}
+
+#editorContainer .ProseMirror {
+  outline: none;
+  caret-color: #646cffaa;
+}
+
+.search-query-text{
+  background-color:rgba(219, 226, 240, .6);
+  padding: 1px 3px;
+  border-radius: 3px;
+}
+
+.search-query-text-filter{
+  background-color: rgba(208, 235, 255, .6); 
+  padding: 1px 3px;
+  border-radius: 3px;
+}
